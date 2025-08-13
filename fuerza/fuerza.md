@@ -16,3 +16,9 @@ Ejercicios diseñados para aumentar la masa muscular, la fuerza y la resistencia
 3. Mantén una técnica correcta.
 4. Descansa entre series.
 5. Estira al finalizar.
+
+## Consejos y precauciones
+- No uses pesos excesivos.
+- Evita movimientos bruscos.
+- Respira adecuadamente durante el ejercicio.
+- Incrementa el peso gradualmente.
