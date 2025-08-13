@@ -15,3 +15,9 @@ Programa de entrenamiento que combina levantamiento de pesas, ejercicios cardiov
 3. Mantén la técnica correcta.
 4. Registra tus repeticiones y tiempos.
 5. Estira al finalizar.
+
+## Consejos y precauciones
+- No sacrifiques técnica por velocidad.
+- Usa el peso adecuado.
+- Escucha a tu cuerpo.
+- Descansa lo suficiente entre sesiones.
