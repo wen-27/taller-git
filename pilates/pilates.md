@@ -15,3 +15,9 @@ Sistema de ejercicios enfocados en fortalecer el core, mejorar la postura y la f
 3. Mantén el abdomen contraído.
 4. Usa colchoneta o equipo de pilates.
 5. Haz de 8 a 12 repeticiones por ejercicio.
+
+## Consejos y precauciones
+- Evita movimientos bruscos.
+- Controla el rango de movimiento.
+- No contengas la respiración.
+- Hazlo bajo supervisión si eres nuevo.
