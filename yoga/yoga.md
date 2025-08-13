@@ -15,3 +15,9 @@ Práctica que combina posturas físicas, respiración y meditación para mejorar
 3. Concéntrate en la respiración.
 4. Mantén cada postura de 20 a 60 segundos.
 5. Finaliza con relajación o meditación.
+
+## Consejos y precauciones
+- No fuerces el cuerpo.
+- Usa un mat antideslizante.
+- Practica con ropa cómoda.
+- Consulta a un instructor si eres principiante.
