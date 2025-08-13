@@ -15,3 +15,9 @@ Ejercicios que mejoran la amplitud de movimiento de músculos y articulaciones, 
 3. Respira profundamente.
 4. Evita rebotes bruscos.
 5. Incluye ejercicios después de entrenar.
+
+## Consejos y precauciones
+- No fuerces la articulación.
+- Calienta antes de estirar.
+- Mantén una postura correcta.
+- Sé constante para ver resultados.
