@@ -15,3 +15,9 @@ Ejercicios que imitan movimientos cotidianos para mejorar la fuerza, equilibrio 
 3. Realiza movimientos multiarticulares.
 4. Controla la postura en cada repetición.
 5. Haz de 2 a 4 circuitos.
+
+## Consejos y precauciones
+- Mantén la técnica correcta.
+- Evita cargas excesivas.
+- Escucha a tu cuerpo.
+- Descansa lo necesario entre sesiones.
