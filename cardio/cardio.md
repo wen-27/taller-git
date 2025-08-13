@@ -13,3 +13,9 @@ El cardio es un conjunto de ejercicios que incrementan la frecuencia cardíaca y
 3. Mantén un ritmo constante.
 4. Hidrátate durante la sesión.
 5. Enfría 5 minutos al final.
+
+## Consejos y precauciones
+- Usa ropa y calzado cómodos.
+- No excedas tus límites físicos.
+- Evita entrenar en climas extremos.
+- Consulta con un médico si tienes problemas cardíacos.
