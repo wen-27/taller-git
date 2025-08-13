@@ -15,3 +15,9 @@ Actividad física que consiste en desplazarse en bicicleta para mejorar la condi
 3. Mantén una cadencia constante.
 4. Hidrátate durante el recorrido.
 5. Finaliza con estiramientos.
+
+## Consejos y precauciones
+- Revisa el estado de la bicicleta.
+- Usa ropa cómoda y visible.
+- Evita rutas peligrosas.
+- Respeta las normas de tránsito.
